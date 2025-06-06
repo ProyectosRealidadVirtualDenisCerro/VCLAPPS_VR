@@ -1,0 +1,115 @@
+{
+    "name": "torch",
+    "maps": [
+        {
+            "name": "toggleLight",
+            "id": "f42988c3-7894-41d2-9e9d-5d67e6f6fb3f",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "d2c4dddd-db38-48f1-a354-b584b71d0a79",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "New action1",
+                    "type": "Button",
+                    "id": "86a78fff-8270-49e3-8af3-d106c8c66884",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "bbac3cee-406b-4be8-b1cc-74adf93e5947",
+                    "path": "F",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c9af5535-1c85-41eb-a988-e4dfd8ffcaee",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7e6c3305-5d21-4a52-865a-ec58831e392e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b9550382-668b-4c6e-8f8a-7fb55785df6b",
+                    "path": "E",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "xr",
+            "id": "e9e31fd1-c122-4ac1-a633-84d38c784d71",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "2a4ccade-e5f7-4da0-bbd3-22b267c5998b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ef54025d-c1cf-4c2b-8980-5fe202ccad8e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c486d9e6-cdb6-417c-b9e8-8ed6b83443b3",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

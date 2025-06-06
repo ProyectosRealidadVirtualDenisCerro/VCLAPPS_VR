@@ -1,0 +1,268 @@
+{
+	"items": [
+		{
+			"key": "play_button",
+			"value": "PLAY"
+		},
+		{
+			"key": "settings_button",
+			"value": "SETTINGS"
+		},
+		{
+			"key": "exit_button",
+			"value": "EXIT"
+		},
+		{
+			"key": "welcome_message",
+			"value": "Welcome to VCLapps"
+		},
+		{
+			"key": "posicion_01",
+			"value": "Exp.1"
+		},
+		{
+			"key": "posicion_02",
+			"value": "Exp.2"
+		},
+		{
+			"key": "posicion_03",
+			"value": "Exp.3"
+		},
+		{
+			"key": "posicion_04",
+			"value": "Exp.4"
+		},
+		{
+			"key": "posicion_05",
+			"value": "Exp.5"
+		},
+		{
+			"key": "posicion_06",
+			"value": "Exp.6"
+		},
+		{
+			"key": "exit_experiment",
+			"value": "Press the ESC key to exit the experiment."
+		},
+		{
+			"key": "exp2Step1",
+			"value": "Step 1"
+		},
+		{
+			"key": "exp2Step2",
+			"value": "Step 2"
+		},
+		{
+			"key": "exp2Step3",
+			"value": "Step 3"
+		},
+		{
+			"key": "exp2Step4",
+			"value": "Step 4"
+		},
+		{
+			"key": "exp2SNext",
+			"value": "Next step"
+		},
+		{
+			"key": "exp2SEnd",
+			"value": "End of experiment"
+		},
+		{
+			"key": "exp2Instruccion1",
+			"value": "Click on the ball to grab it."
+		},
+		{
+			"key": "exp2Instruccion2",
+			"value": "Place the ball on the ramp, and click when it lights up to release it."
+		},
+		{
+			"key": "exp2Instruccion3",
+			"value": "Click the button to continue."
+		},
+		{
+			"key": "GMovimiento",
+			"value": "Use WASD to move closer to the experiment markers and move the mouse to look around."
+		},
+		{
+			"key": "GCambio",
+			"value": "Approach another experiment or move away from the current experiment to activate it again."
+		},
+		{
+			"key": "force_experiment1",
+			"value": "Select the force and then press the button to apply it to the dynamometer."
+		},
+		{
+			"key": "nextStep_experiment1",
+			"value": "Next step"
+		},
+		{
+			"key": "end_experiment1",
+			"value": "End of the experiment"
+		},
+		{
+			"key": "tStep01_experiment1",
+			"value": "Step 01"
+		},
+		{
+			"key": "tStep02_experiment1",
+			"value": "Step 02"
+		},
+		{
+			"key": "tStep03_experiment1",
+			"value": "Step 03"
+		},
+		{
+			"key": "tStep04_experiment1",
+			"value": "Step 04"
+		},
+		{
+			"key": "aceleration_experiment1",
+			"value": "Acceleration:"
+		},
+		{
+			"key": "friction_experiment1",
+			"value": "Friction:"
+		},
+		{
+			"key": "introductionText",
+			"value": "Welcome to Experiment No. 1. Place the bars in the boxes to increase their weight. You can also swap the different boards to adjust the friction. Then, press the start button to see how fast the boxes move."
+		},
+		{
+			"key": "nextButton",
+			"value": "Next"
+		},
+		{
+			"key": "iniciar",
+			"value": "Start"
+		},
+		{
+			"key": "exp2alturaMesa",
+			"value": "Height"
+		},
+		{
+			"key": "exp2cronometro",
+			"value": "Chronometer"
+		},
+		{
+			"key": "texp2_canvas1",
+			"value": "Welcome to Experiment No. 2. Investigate the objects on the table."
+		},
+		{
+			"key": "texp2_canvas2",
+			"value": "Grab the ball again, place it on the ramp, and release it when it glows."
+		},
+		{
+			"key": "texp2_canvas3",
+			"value": "Analyze and reflect on the results displayed on the monitor."
+		},
+		{
+			"key": "texp2_restart",
+			"value": "Restart Experiment"
+		},
+		{
+			"key": "texp2_back_lab",
+			"value": "Return to the Laboratory"
+		},
+		{
+			"key": "texp3_introductionText",
+			"value": "Welcome to experiment No. 3. Connect all the cables to their respective places, as indicated by the guide line. The rheostat on the left allows you to increase or decrease the resistance using the top slider. Investigate the results shown on the multimeters."
+		},
+		{
+			"key": "texp6_introductionText",
+			"value": "Welcome to experiment no. 6. Set up the circuit in series with the power source, ammeter, resistor, and photodiode. Use the objects on the table to observe how the current varies depending on the light intensity. Repeat the experiment with the photodiode that responds to UV light and compare the results."
+		},
+		{
+			"key": "NPCBienvenida",
+			"value": "Hello!\nWelcome to our laboratory!\nDo you have any questions?"
+		},
+		{
+			"key": "NPCP1",
+			"value": "What does it consist of?"
+		},
+		{
+			"key": "NPCP2",
+			"value": "What is the formula?"
+		},
+		{
+			"key": "NPCP3",
+			"value": "Who formulated it?"
+		},
+		{
+			"key": "E1P1",
+			"value": "The objective of this experiment is to investigate how the weight of the object and the friction between surfaces influence the force needed to move it."
+		},
+		{
+			"key": "E1P3",
+			"value": "This experiment is based on Newton's Second Law and demonstrates how weight and friction affect movement. It is a modern adaptation to apply his physical principles."
+		},
+		{
+			"key": "E2P1",
+			"value": "It consists of letting a ball roll down an inclined ramp to observe how it accelerates due to gravity."
+		},
+		{
+			"key": "E2P2",
+			"value": "a = g · sin(θ)\n\na = acceleration\ng = gravity (9.8)\nθ = angle of inclination"
+		},
+		{
+			"key": "E2P3",
+			"value": "It was studied by Galileo Galilei, who investigated accelerated motion and the falling of bodies."
+		},
+		{
+			"key": "E3P1",
+			"value": "The experiment is based on Ohm's Law to observe how current, voltage, and resistance values change when manipulating the rheostat in the circuit."
+		},
+		{
+			"key": "E3P2",
+			"value": "Current, voltage and resistance:\nI = V/R\nor\nV = I * R\nor\nR = V / I"
+		},
+		{
+			"key": "E3P3",
+			"value": "Ohm's Law was formulated by Georg Simon Ohm, a German physicist, in 1827."
+		},
+		{
+			"key": "Volver",
+			"value": "Back"
+		},
+		{
+			"key": "Titulo1",
+			"value": "Experiment 1"
+		},
+		{
+			"key": "Titulo2",
+			"value": "Experiment 2"
+		},
+		{
+			"key": "Titulo3",
+			"value": "Experiment 3"
+		},
+		{
+			"key": "tooltipTextLeftController_Grab",
+			"value": "Grab"
+		},
+		{
+			"key": "tooltipTextLeftController_UIPress",
+			"value": "UI Press"
+		},
+		{
+			"key": "tooltipTextLeftController_Move",
+			"value": "Move"
+		},
+		{
+			"key": "tooltipTextRightController_Grab",
+			"value": "Grab"
+		},
+		{
+			"key": "tooltipTextRightController_UIPress",
+			"value": "UI Press"
+		},
+		{
+			"key": "tooltipTextRightController_Blink",
+			"value": "Teleport"
+		},
+		{
+			"key": "tooltipTextRightController_Turn",
+			"value": "Rotate"
+		}
+	]
+}

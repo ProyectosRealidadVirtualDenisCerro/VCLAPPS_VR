@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pos03
+  - Pos01
+  - Pos02
+  - Pos04
+  - Pos06
+  - Pos05
+  - Table
+  - Sphere
+  - Anchor
+  - fotocelula
+  - Floor
+  - Zona
+  - Socket
+  - Ramp
+  - Madera
+  - Rugoso
+  - Polea
+  - Espejo
+  - Peso
+  - Tabla
+  - RG
+  - RM
+  - M+
+  - A-
+  - PA+
+  - RoM
+  - RoG
+  - G+
+  - A+
+  - PA-
+  - G-
+  - M-
+  - Multimetro_Diodo_Diodo
+  - Multimetro_Diodo_Multimetro
+  - PSU_Multimetro_Multimetro
+  - PSU_Multimetro_PSU
+  - Diodo_Resistencia_Diodo
+  - Diodo_Resistencia_Resistencia
+  - Resistencia_PSU_Resistencia
+  - Resistencia_PSU_PSU
+  - Tapa
+  - TapaTranslucida
+  - TapaOpaca
+  - LEDNormal
+  - LEDUV
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Sphere
+  - Water
+  - UI
+  - Tabla
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GuiaCanvas
+    uniqueID: 2988747241
+    locked: 0
+  - name: PantallaCanvas
+    uniqueID: 1937592049
+    locked: 0
+  - name: TextoPieRey
+    uniqueID: 3030530665
+    locked: 0

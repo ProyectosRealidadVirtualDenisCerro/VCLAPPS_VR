@@ -1,0 +1,268 @@
+{
+	"items": [
+		{
+			"key": "play_button",
+			"value": "OYNA"
+		},
+		{
+			"key": "settings_button",
+			"value": "AYARLARr"
+		},
+		{
+			"key": "exit_button",
+			"value": "ÇIKIŞ"
+		},
+		{
+			"key": "welcome_message",
+			"value": "VCLaaps'a Hoşgeldiniz"
+		},
+		{
+			"key": "posicion_01",
+			"value": "Deney 1"
+		},
+		{
+			"key": "posicion_02",
+			"value": "Deney 2"
+		},
+		{
+			"key": "posicion_03",
+			"value": "Deney 3"
+		},
+		{
+			"key": "posicion_04",
+			"value": "Deney 4"
+		},
+		{
+			"key": "posicion_05",
+			"value": "Deney 5"
+		},
+		{
+			"key": "posicion_06",
+			"value": "Deney 6"
+		},
+		{
+			"key": "exit_experiment",
+			"value": "Deneyden çıkmak için ESC tuşuna basın."
+		},
+		{
+			"key": "exp2Step1",
+			"value": "Adım 1"
+		},
+		{
+			"key": "exp2Step2",
+			"value": "Adım 2"
+		},
+		{
+			"key": "exp2Step3",
+			"value": "Adım 3"
+		},
+		{
+			"key": "exp2Step4",
+			"value": "Adım 4"
+		},
+		{
+			"key": "exp2SNext",
+			"value": "Sonraki adım"
+		},
+		{
+			"key": "exp2SEnd",
+			"value": "Deneyin sonu"
+		},
+		{
+			"key": "exp2Instruccion1",
+			"value": "Topu almak için üzerine tıklayın."
+		},
+		{
+			"key": "exp2Instruccion2",
+			"value": "Topu rampaya yerleştirin ve bırakmak için aydınlandığında tıklayın."
+		},
+		{
+			"key": "exp2Instruccion3",
+			"value": "Devam etmek için düğmeye tıklayın."
+		},
+		{
+			"key": "GMovimiento",
+			"value": "Deney işaretlerine yaklaşmak için WASD tuşlarını kullan ve etrafa bakmak için fareyi hareket ettir."
+		},
+		{
+			"key": "GCambio",
+			"value": "Başka bir deneye yaklaşın veya mevcut deneyden uzaklaşarak yeniden etkinleştirin."
+		},
+		{
+			"key": "force_experiment1",
+			"value": "Kuvveti seçin ve dinamometreye uygulamak için düğmeye basın."
+		},
+		{
+			"key": "nextStep_experiment1",
+			"value": "Sonraki adım"
+		},
+		{
+			"key": "end_experiment1",
+			"value": "Deneyin sonu"
+		},
+		{
+			"key": "tStep01_experiment1",
+			"value": "Adım 01"
+		},
+		{
+			"key": "tStep02_experiment1",
+			"value": "Adım 02"
+		},
+		{
+			"key": "tStep03_experiment1",
+			"value": "Adım 03"
+		},
+		{
+			"key": "tStep04_experiment1",
+			"value": "Adım 04"
+		},
+		{
+			"key": "aceleration_experiment1",
+			"value": "İvme:"
+		},
+		{
+			"key": "friction_experiment1",
+			"value": "Sürtünme:"
+		},
+		{
+			"key": "introductionText",
+			"value": "Deney No. 1'e hoş geldiniz. Kutuların ağırlığını artırmak için çubukları yerleştirin. Sürtünmeyi ayarlamak için farklı tahtaları da değiştirebilirsiniz. Ardından, kutuların ne kadar hızlı hareket ettiğini görmek için başlat düğmesine basın."
+		},
+		{
+			"key": "nextButton",
+			"value": "Sonraki"
+		},
+		{
+			"key": "iniciar",
+			"value": "Başlat"
+		},
+		{
+			"key": "exp2alturaMesa",
+			"value": "Yükseklik"
+		},
+		{
+			"key": "exp2cronometro",
+			"value": "Cronometre"
+		},
+		{
+			"key": "texp2_canvas1",
+			"value": "Deney No. 2'ye hoş geldiniz. Masadaki nesneleri inceleyin."
+		},
+		{
+			"key": "texp2_canvas2",
+			"value": "Topu tekrar al, rampanın üzerine koy ve parladığında bırak."
+		},
+		{
+			"key": "texp2_canvas3",
+			"value": "Monitörde gösterilen sonuçları analiz edin ve üzerinde düşünün."
+		},
+		{
+			"key": "texp2_restart",
+			"value": "deneyi yeniden başlat"
+		},
+		{
+			"key": "texp2_back_lab",
+			"value": "laboratuvara dön"
+		},
+		{
+			"key": "texp3_introductionText",
+			"value": "Deney No. 3'e hoş geldiniz. Tüm kabloları, kılavuz çizgiyle belirtilen yerlerine bağlayın. Sol tarafta bulunan reosta, üstteki kaydırıcıyla direnci artırmanıza veya azaltmanıza olanak tanır. Multimetrelerde yansıtılan sonuçları inceleyin."
+		},
+		{
+			"key": "texp6_introductionText",
+			"value": "Deney no. 6’ya hoş geldiniz. Devreyi güç kaynağı, ampermetre, direnç ve fotodiyot ile seri şekilde kurun. Masadaki nesneleri kullanarak ışık şiddetine göre akımın nasıl değiştiğini gözlemleyin. UV ışığa duyarlı fotodiyotla deneyi tekrarlayın ve sonuçları karşılaştırın."
+		},
+		{
+			"key": "NPCBienvenida",
+			"value": "Merhaba!\nLaboratuvarımıza hoş geldiniz!\nHerhangi bir sorunuz var mı?"
+		},
+		{
+			"key": "NPCP1",
+			"value": "Bu neden oluşuyor?"
+		},
+		{
+			"key": "NPCP2",
+			"value": "Formül nedir?"
+		},
+		{
+			"key": "NPCP3",
+			"value": "Bunu kim formüle etti?"
+		},
+		{
+			"key": "E1P1",
+			"value": "Bu deneyin amacı, nesnenin ağırlığının ve yüzeyler arasındaki sürtünmenin onu hareket ettirmek için gereken kuvveti nasıl etkilediğini araştırmaktır."
+		},
+		{
+			"key": "E1P3",
+			"value": "Bu deney Newton'un İkinci Kanunu'na dayanmakta ve ağırlık ile sürtünmenin hareketi nasıl etkilediğini göstermektedir. Fiziksel prensiplerini uygulamak için modern bir uyarlamadır."
+		},
+		{
+			"key": "E2P1",
+			"value": "Bir topun eğimli bir rampadan yuvarlanarak yerçekiminin etkisiyle nasıl hızlandığını gözlemlemekten oluşur."
+		},
+		{
+			"key": "E2P2",
+			"value": "a = g · sin(θ)\n\na = ivme\ng = yerçekimi (9,8)\nθ = eğim açısı"
+		},
+		{
+			"key": "E2P3",
+			"value": "Hızlanan hareketi ve cisimlerin düşüşünü araştıran Galileo Galilei tarafından incelenmiştir."
+		},
+		{
+			"key": "E3P1",
+			"value": "Deney, devredeki reostayı manipüle ederken akım, voltaj ve direnç değerlerinin nasıl değiştiğini gözlemlemek için Ohm Yasası'na dayanmaktadır."
+		},
+		{
+			"key": "E3P2",
+			"value": "Akım, voltaj ve direnç:\nI = V/R\nveya\nV = I * R\nveya\nR = V / I"
+		},
+		{
+			"key": "E3P3",
+			"value": "Ohm Yasası, 1827'de Alman fizikçi Georg Simon Ohm tarafından formüle edilmiştir."
+		},
+		{
+			"key": "Volver",
+			"value": "Geri"
+		},
+		{
+			"key": "Titulo1",
+			"value": "Deney 1"
+		},
+		{
+			"key": "Titulo2",
+			"value": "Deney 2"
+		},
+		{
+			"key": "Titulo3",
+			"value": "Deney 3"
+		},
+		{
+			"key": "tooltipTextLeftController_Grab",
+			"value": "Yakala"
+		},
+		{
+			"key": "tooltipTextLeftController_UIPress",
+			"value": "Arayüz Tıklaması"
+		},
+		{
+			"key": "tooltipTextLeftController_Move",
+			"value": "Hareket Et"
+		},
+		{
+			"key": "tooltipTextRightController_Grab",
+			"value": "Yakala"
+		},
+		{
+			"key": "tooltipTextRightController_UIPress",
+			"value": "Arayüz Tıklaması"
+		},
+		{
+			"key": "tooltipTextRightController_Blink",
+			"value": "Işınlan"
+		},
+		{
+			"key": "tooltipTextRightController_Turn",
+			"value": "Döndür"
+		}
+	]
+}

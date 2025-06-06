@@ -1,0 +1,268 @@
+{
+	"items": [
+		{
+			"key": "play_button",
+			"value": "JUGAR"
+		},
+		{
+			"key": "settings_button",
+			"value": "AJUSTES"
+		},
+		{
+			"key": "exit_button",
+			"value": "SALIR"
+		},
+		{
+			"key": "welcome_message",
+			"value": "Bienvenido a VCLapps"
+		},
+		{
+			"key": "posicion_01",
+			"value": "Exp.1"
+		},
+		{
+			"key": "posicion_02",
+			"value": "Exp.2"
+		},
+		{
+			"key": "posicion_03",
+			"value": "Exp.3"
+		},
+		{
+			"key": "posicion_04",
+			"value": "Exp.4"
+		},
+		{
+			"key": "posicion_05",
+			"value": "Exp.5"
+		},
+		{
+			"key": "posicion_06",
+			"value": "Exp.6"
+		},
+		{
+			"key": "exit_experiment",
+			"value": "Pulsa la tecla ESC para salir del experimento."
+		},
+		{
+			"key": "exp2Step1",
+			"value": "Paso 1"
+		},
+		{
+			"key": "exp2Step2",
+			"value": "Paso 2"
+		},
+		{
+			"key": "exp2Step3",
+			"value": "Paso 3"
+		},
+		{
+			"key": "exp2Step4",
+			"value": "Paso 4"
+		},
+		{
+			"key": "exp2SNext",
+			"value": "Siguiente paso"
+		},
+		{
+			"key": "exp2SEnd",
+			"value": "Fin del experimento"
+		},
+		{
+			"key": "exp2Instruccion1",
+			"value": "Pincha sobre la bola para cogerla."
+		},
+		{
+			"key": "exp2Instruccion2",
+			"value": "Coloca la bola sobre la rampa, y haz click cuando se ilumine para soltarla."
+		},
+		{
+			"key": "exp2Instruccion3",
+			"value": "Pincha en el botón para continuar."
+		},
+		{
+			"key": "GMovimiento",
+			"value": "Usa WASD para acercarte a las marcas de los experimentos y mueve el ratón para mirar alrededor."
+		},
+		{
+			"key": "GCambio",
+			"value": "Acércate a otro experimento o aléjate del experimento actual para activarlo de nuevo."
+		},
+		{
+			"key": "force_experiment1",
+			"value": "Selecciona la fuerza y luego pulsa el botón para aplicarla al dinamómetro."
+		},
+		{
+			"key": "nextStep_experiment1",
+			"value": "Siguiente paso"
+		},
+		{
+			"key": "end_experiment1",
+			"value": "Fin del experimento"
+		},
+		{
+			"key": "tStep01_experiment1",
+			"value": "Paso 01"
+		},
+		{
+			"key": "tStep02_experiment1",
+			"value": "Paso 02"
+		},
+		{
+			"key": "tStep03_experiment1",
+			"value": "Paso 03"
+		},
+		{
+			"key": "tStep04_experiment1",
+			"value": "Paso 04"
+		},
+		{
+			"key": "aceleration_experiment1",
+			"value": "Aceleración:"
+		},
+		{
+			"key": "friction_experiment1",
+			"value": "Fricción:"
+		},
+		{
+			"key": "introductionText",
+			"value": "Bienvenido al experimento nº1. Coloca las barras en las cajas para aumentar su peso. También puedes intercambiar las distintas tablas para regular la fricción. Después, pulsa el botón iniciar para ver a qué velocidad se mueven las cajas. "
+		},
+		{
+			"key": "nextButton",
+			"value": "Siguiente"
+		},
+		{
+			"key": "iniciar",
+			"value": "Iniciar"
+		},
+		{
+			"key": "exp2alturaMesa",
+			"value": "Altura"
+		},
+		{
+			"key": "exp2cronometro",
+			"value": "Cronómetro"
+		},
+		{
+			"key": "texp2_canvas1",
+			"value": "Bienvenido/a al experimento nº2. Investiga los objetos que hay en la mesa."
+		},
+		{
+			"key": "texp2_canvas2",
+			"value": "Vuelve a agarrar la bola, colócala sobre la rampa y cuando brille suéltala."
+		},
+		{
+			"key": "texp2_canvas3",
+			"value": "Analiza y reflexiona sobre los resultados obtenidos mostrados en el monitor."
+		},
+		{
+			"key": "texp2_restart",
+			"value": "Reiniciar Experimento"
+		},
+		{
+			"key": "texp2_back_lab",
+			"value": "Volver al Laboratorio"
+		},
+		{
+			"key": "texp3_introductionText",
+			"value": "Bienvenido al experimento nº3. Conecta todos los cables en su respectivo lugar, indicado por la linea guía. El reostato ubicado a la izquierda te permite aumentar o disminuir la resistencia con el deslizador superior. Investiga los resultados reflejados en los multímetros."
+		},
+		{
+			"key": "texp6_introductionText",
+			"value": "Bienvenido al experimento nº6. Monta el circuito en serie con la fuente, amperímetro, resistencia y fotodiodo. Utiliza los objetos de la mesa para observar cómo varía la corriente según la intensidad de luz. Repite el experimento con el fotodiodo que responde a luz UV y compara los resultados."
+		},
+		{
+			"key": "NPCBienvenida",
+			"value": "Hola!\nBienvenido a nuestro laboratorio!\n¿Tienes alguna pregunta?"
+		},
+		{
+			"key": "NPCP1",
+			"value": "¿En que consiste?"
+		},
+		{
+			"key": "NPCP2",
+			"value": "¿Cuál es la fórmula?"
+		},
+		{
+			"key": "NPCP3",
+			"value": "¿Quién la formuló?"
+		},
+		{
+			"key": "E1P1",
+			"value": "El objetivo de este experimento es investigar cómo influyen el peso del objeto y la fricción entre las superficies en la fuerza necesaria para moverlo."
+		},
+		{
+			"key": "E1P3",
+			"value": "Este experimento se basa en la Segunda Ley de Newton y demuestra cómo el peso y la fricción afectan el movimiento. Es una adaptación moderna para aplicar sus principios físicos."
+		},
+		{
+			"key": "E2P1",
+			"value": "Consiste en dejar rodar una bola por una rampa inclinada para observar cómo acelera por la acción de la gravedad."
+		},
+		{
+			"key": "E2P2",
+			"value": "a = g · sen(θ)\n\na = aceleración\ng = gravedad (9.8)\nθ =  ángulo de inclinación"
+		},
+		{
+			"key": "E2P3",
+			"value": "Fue estudiado por Galileo Galilei, quien investigó el movimiento acelerado y la caída de los cuerpos."
+		},
+		{
+			"key": "E3P1",
+			"value": "El experimento se basa en la Ley de Ohm para observar cómo cambian los valores de corriente, voltaje y resistencia al manipular el reostato en el circuito."
+		},
+		{
+			"key": "E3P2",
+			"value": "Intensidad, voltaje y resistencia:\nI = V/R\no\nV = I * R\no\nR = V / I"
+		},
+		{
+			"key": "E3P3",
+			"value": "La Ley de Ohm fue formulada por Georg Simon Ohm, un físico alemán, en 1827."
+		},
+		{
+			"key": "Volver",
+			"value": "Atrás"
+		},
+		{
+			"key": "Titulo1",
+			"value": "Experimento 1"
+		},
+		{
+			"key": "Titulo2",
+			"value": "Experimento 2"
+		},
+		{
+			"key": "Titulo3",
+			"value": "Experimento 3"
+		},
+		{
+			"key": "tooltipTextLeftController_Grab",
+			"value": "Agarrar"
+		},
+		{
+			"key": "tooltipTextLeftController_UIPress",
+			"value": "Pulsar UI"
+		},
+		{
+			"key": "tooltipTextLeftController_Move",
+			"value": "Moverse"
+		},
+		{
+			"key": "tooltipTextRightController_Grab",
+			"value": "Agarrar"
+		},
+		{
+			"key": "tooltipTextRightController_UIPress",
+			"value": "Pulsar UI"
+		},
+		{
+			"key": "tooltipTextRightController_Blink",
+			"value": "Teletransportarse"
+		},
+		{
+			"key": "tooltipTextRightController_Turn",
+			"value": "Girar"
+		}
+	]
+}

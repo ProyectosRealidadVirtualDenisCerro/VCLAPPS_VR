@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LanguageSelection.unity
+    guid: a83b48ec5bd860244a33ba3e28986832
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Physics Lab.unity
+    guid: 9e61740ca4cbfcc4b8d18040619aa33e
+  - enabled: 1
+    path: Assets/Scenes/Exp1.unity
+    guid: dc38ef7d69531a0439db1235e9da134d
+  - enabled: 1
+    path: Assets/Scenes/Exp2.unity
+    guid: b2fb4bb4fa35d8f46b93521335003ff1
+  - enabled: 1
+    path: Assets/Scenes/Exp3.unity
+    guid: a273d79deda425b4fb5408b94b78e5e7
+  - enabled: 1
+    path: Assets/Scenes/Exp6.unity
+    guid: 78683debe74ba844abe768a872df871d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 0d91d4cac2da28a4d8272dfbe895c9a7, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: dc43e9d3a6ac1a14e8fcc55424c48c78, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 844aceee31473494c832657ebe7d0b26, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: a7b2c05b5d8bfd6408eeeb00ec9467b2, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4a337f6b452143d4d80922218b788658, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
