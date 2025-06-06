@@ -108,7 +108,7 @@ A continuación, se incluyen enlaces útiles relacionados con el desarrollo, fun
   [Ver Presentación - VCLAPPS_VR](https://docs.google.com/presentation/d/1S2zhcIF58HA2fEETlDTiTO6hUr8iovioSHYt3W9mqTQ/edit?slide=id.p#slide=id.p)
   
 - 🎥 **Vídeo demostrativo del proyecto:**  
-  [Ver en YouTube – página66](https://www.youtube.com/watch?v=GVmvcosUE8c)
+  [Ver en YouTube](https://www.youtube.com/watch?v=GVmvcosUE8c)
   
 - 🎥 **Vídeo de la presentación del proyecto en AlcoiBot 2025:**  
   [Ver en YouTube – página66](https://www.youtube.com/watch?v=Ic59gAxHJG8&t=280s)
