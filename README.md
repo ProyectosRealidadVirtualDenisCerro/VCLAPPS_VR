@@ -104,8 +104,8 @@ A continuación, se incluyen enlaces útiles relacionados con el desarrollo, fun
 - 📝 **Documentación técnica del proyecto (PDF):**  
   [VCLAPPS VR - Memoria del TFG](https://docs.google.com/document/d/1_XFPyqQJswXCD5viiSbMmEtSHswaqPA4kjLWGrNmsIY/edit?usp=sharing)
 
-- 📝 **Presentación del proyecto (PDF):**
-  [Ver Presentación - VCLAPPS_vR](https://docs.google.com/presentation/d/1S2zhcIF58HA2fEETlDTiTO6hUr8iovioSHYt3W9mqTQ/edit?slide=id.p#slide=id.p)
+- 📝 **Presentación del proyecto (PDF):**  
+  [Ver Presentación - VCLAPPS_VR](https://docs.google.com/presentation/d/1S2zhcIF58HA2fEETlDTiTO6hUr8iovioSHYt3W9mqTQ/edit?slide=id.p#slide=id.p)
   
 - 🎥 **Vídeo demostrativo del proyecto:**  
   [Ver en YouTube – página66](https://www.youtube.com/watch?v=GVmvcosUE8c)
